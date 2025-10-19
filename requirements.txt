@@ -10,4 +10,4 @@ regex==2024.9.11
 # Optional cloud sync (uncomment if you enable Supabase and add code later)
 # supabase==2.6.0
 pdfplumber==0.11.4
-Pillow==10.4.0
+#Pillow==10.4.0
